@@ -1,6 +1,8 @@
 # ABB_Salford
 This Git repository contains a comprehensive script designed for ABB Robot Studio, showcasing the step-by-step process of using the IRB1200 robot to write on a virtual paper using a specialized pen tool. 
 //.........................//
+
+
 MODULE Module1
        
     TASK PERS tooldata toolPen:=[TRUE,[[100,0,20],[0.653281482,0.27059805,-0.653281482,-0.27059805]],[0.1,[50,0,10],[1,0,0,0],0,0,0]];
